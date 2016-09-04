@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Iab330Ass1.Iab330Ass1" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="16" />
+  <application
+    android:label="Iab330Ass1"
+    android:theme="@android:style/Theme.Material.Light">
+  </application>
+  
+</manifest>
